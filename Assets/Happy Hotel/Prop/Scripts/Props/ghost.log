@@ -1,0 +1,314 @@
+回合 1 开始，费用已恢复。
+
+DefaultCharacter 回合开始处理完成，通知了 0 个Buff
+
+成功加载关卡: Level1
+
+[GameSceneInitializer] 成功加载初始关卡: Level1
+
+[GameSceneInitializer] GameScene初始化完成
+
+LevelCompletionManager: 成功找到RewardUIController
+
+开始处理场景 GameScene 的单例管理
+
+完成场景 GameScene 的单例管理
+
+CharacterHealthManager: 已注册MainCharacter血量变化监听
+
+CameraManager: 成功订阅MapManager事件
+
+CameraManager: 成功订阅LevelManager事件
+
+CameraManager: 摄像机位置调整为 (5.00, 4.00, -10.00)，地图中心: (5.00, 4.00, 0.00)
+
+CameraManager: 摄像机尺寸从 6.5 调整为 6.5，地图大小: (11, 9)
+
+CameraManager: 初始化完成，地图大小: (11, 9), 编辑模式: False
+
+关卡加载完成后检查出口装置初始状态
+
+[GameSceneInitializer] 自动开始游戏（第一回合）
+
+方向选择器位置设置成功 - 屏幕坐标: (454.65, 316.62, 10.50), UI坐标: (-124.66, 41.55)
+
+显示方向选择器在屏幕位置: (454.65, 316.62, 10.50)
+
+方向选择器：用户点击了方向按钮 Right
+
+方向选择器：调用回调函数，传递方向 Right
+
+自动初始化组件: DirectionComponent
+
+已注册 GhostDirectionChangerProp 到位置 (0, 0)
+
+自动初始化组件: GridObjectComponent
+
+自动初始化组件: ProcessableValueCollectorBehaviorComponent
+
+已移动 GhostDirectionChangerProp 从 (0, 0) 到 (3, 4) (1.933589)
+
+Prop GhostDirectionChangerProp 已标记为初始化完成
+
+已放置道具 GhostDirectionChangerProp 到位置 (3, 4)
+
+成功放置幽灵方向改变器到位置: (3, 4)
+
+使用了 1 费用，剩余 2。
+
+隐藏方向选择器
+
+卡牌选择已清除
+
+方向选择器位置设置成功 - 屏幕坐标: (545.12, 316.62, 10.50), UI坐标: (41.55, 41.55)
+
+显示方向选择器在屏幕位置: (545.12, 316.62, 10.50)
+
+方向选择器：用户点击了方向按钮 Left
+
+方向选择器：调用回调函数，传递方向 Left
+
+自动初始化组件: DirectionComponent
+
+已注册 DirectionChangerProp 到位置 (0, 0)
+
+自动初始化组件: GridObjectComponent
+
+自动初始化组件: ProcessableValueCollectorBehaviorComponent
+
+已移动 DirectionChangerProp 从 (0, 0) 到 (5, 4) (3.378715)
+
+Prop DirectionChangerProp 已标记为初始化完成
+
+已放置道具 DirectionChangerProp 到位置 (5, 4)
+
+成功放置方向改变器道具到位置: (5, 4)
+
+使用了 1 费用，剩余 1。
+
+隐藏方向选择器
+
+卡牌选择已清除
+
+已处理临时区卡牌
+
+游戏开始播放
+
+ClockSystem: PreTick 执行队列大小=0, time=4.006
+
+ClockSystem: onClockTick 分发开始 time=4.006
+
+已移动 DefaultCharacter 从 (1, 4) 到 (2, 4) (4.006185)
+
+ClockSystem: onClockTick 分发结束 time=4.006
+
+ClockSystem: PreTick 执行队列大小=0, time=4.208
+
+ClockSystem: onClockTick 分发开始 time=4.208
+
+ActivePlaceablePropBase.OnTrigger: prop=GhostDirectionChangerProp pos=(3, 4) autoDestroyOnTrigger=True
+
+GhostDirectionChangerProp: 收到触发，安排PostTick生成普通方向改变器，位置=(3, 4)，方向=Right
+
+ClockSystem: 已安排一个动作在PostTick执行（将在最近的onClockTick之后执行），队列大小=1
+
+ActivePlaceablePropBase.OnTrigger: 将销毁 prop=GhostDirectionChangerProp pos=(3, 4) 因为 autoDestroyOnTrigger=true
+
+PropTriggerComponent触发了道具 GhostDirectionChangerProp
+
+已移动 DefaultCharacter 从 (2, 4) 到 (3, 4) (4.208101)
+
+ClockSystem: onClockTick 分发结束 time=4.208
+
+GhostDirectionChangerProp: PostTick回调触发，准备生成，位置=(3, 4)，方向=Right
+
+GhostDirectionChangerProp: 执行生成，位置=(3, 4)，方向=Right
+
+GhostDirectionChangerProp: 生成前同格对象数=2
+
+自动初始化组件: DirectionComponent
+
+已注册 DirectionChangerProp 到位置 (0, 0)
+
+自动初始化组件: GridObjectComponent
+
+自动初始化组件: ProcessableValueCollectorBehaviorComponent
+
+ActivePlaceablePropBase.OnTrigger: prop=DirectionChangerProp pos=(3, 4) autoDestroyOnTrigger=True
+
+ActivePlaceablePropBase.OnTrigger: 将销毁 prop=DirectionChangerProp pos=(3, 4) 因为 autoDestroyOnTrigger=true
+
+PropTriggerComponent触发了道具 DirectionChangerProp
+
+已移动 DirectionChangerProp 从 (0, 0) 到 (3, 4) (4.208101)
+
+Prop DirectionChangerProp 已标记为初始化完成
+
+已放置道具 DirectionChangerProp 到位置 (3, 4)
+
+GhostDirectionChangerProp: 已生成普通方向改变器 成功，位置=(3, 4)，方向=Right
+
+GhostDirectionChangerProp: 生成后同格对象数=3
+
+ClockSystem: PostTick 执行了 1 个动作
+
+PropBase.OnDestroy: Destroyed prop=GhostDirectionChangerProp pos=(3, 4)
+
+PropBase.OnDestroy: Destroyed prop=DirectionChangerProp pos=(3, 4)
+
+ClockSystem: PreTick 执行队列大小=0, time=4.410
+
+ClockSystem: onClockTick 分发开始 time=4.410
+
+创建新的无来源可叠加修饰器: FlatBonusModifier
+
+[AttackPowerBoosterComponent] 给 DefaultCharacter 增加攻击力: +2
+
+从 TurnEndRevertFlatAttackBonusBuff 自动初始化组件: ProcessableValueCollectorComponent
+
+DefaultCharacter 添加Buff: TurnEndRevertFlatAttackBonusBuff
+
+DefaultCharacter 通过 BoxingGlovesProp 获得了 TurnEndRevertFlatAttackBonusBuff Buff
+
+PropTriggerComponent触发了道具 BoxingGlovesProp
+
+已移动 DefaultCharacter 从 (3, 4) 到 (4, 4) (4.40954)
+
+ClockSystem: onClockTick 分发结束 time=4.410
+
+PropBase.OnDestroy: Destroyed prop=BoxingGlovesProp pos=(4, 4)
+
+ClockSystem: PreTick 执行队列大小=0, time=4.611
+
+ClockSystem: onClockTick 分发开始 time=4.611
+
+ActivePlaceablePropBase.OnTrigger: prop=DirectionChangerProp pos=(5, 4) autoDestroyOnTrigger=True
+
+方向改变器触发(5, 4)：Left
+
+ActivePlaceablePropBase.OnTrigger: 将销毁 prop=DirectionChangerProp pos=(5, 4) 因为 autoDestroyOnTrigger=true
+
+PropTriggerComponent触发了道具 DirectionChangerProp
+
+已移动 DefaultCharacter 从 (4, 4) 到 (5, 4) (4.611051)
+
+ClockSystem: onClockTick 分发结束 time=4.611
+
+PropBase.OnDestroy: Destroyed prop=DirectionChangerProp pos=(5, 4)
+
+ClockSystem: PreTick 执行队列大小=0, time=4.811
+
+ClockSystem: onClockTick 分发开始 time=4.811
+
+已移动 DefaultCharacter 从 (5, 4) 到 (4, 4) (4.811134)
+
+ClockSystem: onClockTick 分发结束 time=4.811
+
+ClockSystem: PreTick 执行队列大小=0, time=5.013
+
+ClockSystem: onClockTick 分发开始 time=5.013
+
+已移动 DefaultCharacter 从 (4, 4) 到 (3, 4) (5.012645)
+
+ClockSystem: onClockTick 分发结束 time=5.013
+
+ClockSystem: PreTick 执行队列大小=0, time=5.213
+
+ClockSystem: onClockTick 分发开始 time=5.213
+
+已移动 DefaultCharacter 从 (3, 4) 到 (2, 4) (5.212761)
+
+ClockSystem: onClockTick 分发结束 time=5.213
+
+ClockSystem: PreTick 执行队列大小=0, time=5.415
+
+ClockSystem: onClockTick 分发开始 time=5.415
+
+已移动 DefaultCharacter 从 (2, 4) 到 (1, 4) (5.414995)
+
+ClockSystem: onClockTick 分发结束 time=5.415
+
+ClockSystem: PreTick 执行队列大小=0, time=5.616
+
+ClockSystem: onClockTick 分发开始 time=5.616
+
+游戏暂停
+
+碰到墙体，游戏暂停
+
+DefaultCharacter 移除Buff: TurnEndRevertFlatAttackBonusBuff
+
+DefaultCharacter 回合结束处理完成，通知了 1 个Buff
+
+进入敌人回合（第 1 回合）。
+
+Mage 回合开始处理完成，通知了 0 个Buff
+
+ClockSystem: onClockTick 分发结束 time=5.616
+
+CharacterHealthManager: 保存血量 - 最大血量: 60, 当前血量: 52
+
+DefaultCharacter 受到 8 点伤害，当前生命值: 52
+
+从 AddSelfArmorIntent 自动初始化组件: SelfArmorEntityComponent
+
+从 AddSelfArmorIntent 自动初始化组件: ExecutionCompletionAwaiterComponent
+
+从 AddSelfArmorIntent 自动初始化组件: ProcessableValueCollectorComponent
+
+已清除 0 个被卡牌放置的道具
+
+Mage 回合结束处理完成，通知了 0 个Buff
+
+第 1 回合结束。
+
+进入第 2 回合。
+
+标记装备为已刷新: IronSword
+
+自动初始化组件: AttackPowerBoosterComponent
+
+已注册 IronSwordProp 到位置 (0, 0)
+
+自动初始化组件: GridObjectComponent
+
+收集到ProcessableValue: damageValue 在 IronSwordProp
+
+自动初始化组件: ProcessableValueCollectorBehaviorComponent
+
+[IronSwordProp] 配置 AttackPowerBoosterComponent: 增加攻击力 +0
+
+[IronSwordProp] 配置 AttackPowerBoosterComponent: 增加攻击力 +1
+
+已移动 IronSwordProp 从 (0, 0) 到 (8, 5) (6.617459)
+
+Prop IronSwordProp 已标记为初始化完成
+
+已放置道具 IronSwordProp 到位置 (8, 5)
+
+抽取卡牌: Stopper
+
+抽取卡牌: DirectionChanger
+
+抽取卡牌: DirectionChanger
+
+抽取卡牌: DirectionChanger
+
+抽取卡牌: DirectionChanger
+
+回合 2 开始，费用已恢复。
+
+DefaultCharacter 回合开始处理完成，通知了 0 个Buff
+
+PropBase.OnDestroy: Destroyed prop=LightArmorProp pos=(5, 3)
+
+PropBase.OnDestroy: Destroyed prop=LightArmorProp pos=(8, 3)
+
+PropBase.OnDestroy: Destroyed prop=IronSwordProp pos=(6, 6)
+
+PropBase.OnDestroy: Destroyed prop=IronSwordProp pos=(8, 5)
+
+CameraManager: 已清理所有协程和事件订阅
+
+CharacterHealthManager: 已解除MainCharacter血量变化监听
+

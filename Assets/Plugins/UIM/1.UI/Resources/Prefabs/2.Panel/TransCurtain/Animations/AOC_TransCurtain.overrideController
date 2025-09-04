@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_TransCurtain
+  m_Controller: {fileID: 9100000, guid: 724938caf4dcbb04382dac4f9219d73c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 67a3216b43827594fa7e85c4eddf04d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c9f3ff23f45f73b428782c5774c99937, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8604b476007b1fc49ad95d48750d44cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 027c339eb9308e2459bf610a6372f6e2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c7242967e1fcd7147b0a63d8ffac3f30, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7c74df3dfcf8b664abda4cf8c2a044b9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d93c860017f33e04f92fba803e80e997, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1433710728435724481f2cda074b412c, type: 2}

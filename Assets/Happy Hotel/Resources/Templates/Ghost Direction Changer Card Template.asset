@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6245b5a0567f61c4bad2ab80dc166a32, type: 3}
+  m_Name: Ghost Direction Changer Card Template
+  m_EditorClassIdentifier: 
+  itemName: "\u5E7D\u7075\u8F6C\u5411\u5668"
+  icon: {fileID: -2062296660, guid: 42f7b155f2321aa4eabca9c411a7f300, type: 3}
+  isPurchasable: 1
+  description: "\u653E\u7F6E\u4E00\u4E2A\u7BAD\u5934\uFF0C\u5728\u7B2C\u4E00\u6B21\u89E6\u53D1\u65F6\u4E0D\u4F1A\u6539\u53D8\u65B9\u5411\u3002"
+  rarity: 0
+  isUnique: 0
+  allowedCharacterTypeId: Public
+  isConsumable: 0
+  cardCost: 1
+  cardImage: {fileID: -2062296660, guid: 42f7b155f2321aa4eabca9c411a7f300, type: 3}
+  autoDestroyOnTrigger: 1
+  propDescription: "\u751F\u6210\u4E00\u4E2A\u5411 {direction} \u7684\u7BAD\u5934\u3002"
+  directionSprites:
+  - {fileID: 575837533, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  - {fileID: -126045602, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  - {fileID: 350296428, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  - {fileID: -1319999260, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  allowedDirections: 15

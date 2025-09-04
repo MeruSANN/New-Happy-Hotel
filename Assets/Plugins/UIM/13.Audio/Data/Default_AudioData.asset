@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f3056341f1f64f42a0ecddcc95bf232, type: 3}
+  m_Name: Default_AudioData
+  m_EditorClassIdentifier: 
+  audioDataList:
+  - key: id_click_01
+    audioClip: {fileID: 8300000, guid: f50885a1551a84f40957d23fc1c0201f, type: 3}
+  - key: id_click_02
+    audioClip: {fileID: 8300000, guid: 8fc9aa728b4cd0640b1b1cad5a231666, type: 3}
+  - key: id_click_03
+    audioClip: {fileID: 8300000, guid: 2b3f959fbe39aad4c85a0533089047fd, type: 3}
+  - key: id_ACunlock
+    audioClip: {fileID: 8300000, guid: a7edc8c7ed5352c40a0d9983e0059d59, type: 3}
+  - key: id_ACprogress
+    audioClip: {fileID: 8300000, guid: 744b0ce76e2be0e48ab0609c5748af95, type: 3}
+  - key: id_pointerEnter_03
+    audioClip: {fileID: 8300000, guid: 332d4e0324f895f42b3b6ab2519338eb, type: 3}
+  - key: id_Bgm_01
+    audioClip: {fileID: 8300000, guid: 28d318f99df2beb4bbcfec7b9b7f1b42, type: 3}
+  - key: id_Bgm_02
+    audioClip: {fileID: 8300000, guid: d30982c7442c2dc48a044e32ded00cfc, type: 3}
+  BGMVolum: 1
+  SFVolume: 1

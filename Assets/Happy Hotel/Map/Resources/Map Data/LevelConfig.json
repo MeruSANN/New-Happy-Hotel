@@ -1,0 +1,49 @@
+{
+    "levels": [
+        {
+            "levelName": "Level1",
+            "displayName": "",
+            "description": "",
+            "nextLevels": [
+                "Level2"
+            ],
+            "isStartLevel": false,
+            "shouldEnterShop": false,
+            "isFinalLevel": false
+        },
+        {
+            "levelName": "Level2",
+            "displayName": "",
+            "description": "",
+            "nextLevels": [
+                "Level3"
+            ],
+            "isStartLevel": false,
+            "shouldEnterShop": false,
+            "isFinalLevel": false
+        },
+        {
+            "levelName": "Level3",
+            "displayName": "",
+            "description": "",
+            "nextLevels": [
+                "Level4"
+            ],
+            "isStartLevel": false,
+            "shouldEnterShop": false,
+            "isFinalLevel": false
+        },
+        {
+            "levelName": "Level4",
+            "displayName": "",
+            "description": "",
+            "nextLevels": [],
+            "isStartLevel": false,
+            "shouldEnterShop": false,
+            "isFinalLevel": true
+        }
+    ],
+    "settings": {
+        "defaultStartLevel": "Level1"
+    }
+}

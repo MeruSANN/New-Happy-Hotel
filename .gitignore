@@ -1,0 +1,43 @@
+.plastic/
+.cursor/
+.idea/
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+.cursorignore
+*.csproj
+*.sln
+*.DotSettings
+*.DotSettings.user
+
+# IDE
+.vs/
+.vscode/
+
+# Unity 构建与捕获
+Build/
+Builds/
+MemoryCaptures/
+Recordings/
+CrashReports/
+DerivedDataCache/
+
+# 临时/个人文件
+*.pidb
+*.user
+*.userprefs
+*.suo
+*.svd
+*.booproj
+*.tmp
+*.stacktrace
+*.dmp
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+
+# Unity 资源包
+*.unitypackage

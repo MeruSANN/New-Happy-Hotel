@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0984929efbf6dc41af22919b77231ed, type: 3}
+  m_Name: Effects_LockDebris
+  m_EditorClassIdentifier: 
+  effectPrefab: {fileID: 671780573319920137, guid: 9e9f8ecb436d2d44f88e56e5cadc2070, type: 3}
+  effectParents: {fileID: 0}
+  poolSize: 4
+  effectPool: []

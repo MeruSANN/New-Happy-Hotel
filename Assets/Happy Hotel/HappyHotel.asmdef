@@ -1,0 +1,19 @@
+{
+    "name": "HappyHotel",
+    "rootNamespace": "",
+    "references": [
+        "Sirenix.OdinInspector.Modules.UnityMathematics",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Happy Hotel",
+    "maps": [
+        {
+            "name": "Arrow Wheel",
+            "id": "ad85ad4a-b00a-42a4-9188-33ef61d520e2",
+            "actions": [
+                {
+                    "name": "Mouse Hold",
+                    "type": "Button",
+                    "id": "4d2e3078-2b92-4d06-a399-123c9c35ec34",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Right Click",
+                    "type": "Button",
+                    "id": "aa804d1c-48b1-42f0-8f8a-27b755b6b688",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8da0cd8c-fcc6-47c5-bc36-eed7454a365d",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "Hold(duration=0.08)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4b645091-7ade-430d-913d-5ea5931410ad",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

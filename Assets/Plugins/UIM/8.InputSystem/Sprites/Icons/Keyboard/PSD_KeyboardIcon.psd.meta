@@ -1,0 +1,1812 @@
+fileFormatVersion: 2
+guid: 65d8030847e384e48b334a6d78507c00
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9065ec38d7dac24bbb56bf7c571058a
+      internalID: 1950183740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb13b9b02eccd84ebd692cea4a1f3a5
+      internalID: 1310336723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9fa9ec39a2664c92a11d727053303
+      internalID: 1474790595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9ef5ff9a3f914794e3a89f576eb2b
+      internalID: -851017698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738ba0f92ce7fb43b73c390be85741e
+      internalID: 990767546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 905
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0bdd3c02e1cd42a385d9f06632982
+      internalID: -22063854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_6
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d3ab269ac93145b303e7f6bb4fa1d
+      internalID: -344363451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_7
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 905
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604f4f31555a8c4d8b4bccd3037b99b
+      internalID: 492121114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_8
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60abfc4e85d9474886ce4365c73fabb
+      internalID: -232463992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_9
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 905
+        width: 163
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2d4b9c4571ca4f9dfd795e9619a6a
+      internalID: -650703728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_10
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 905
+        width: 165
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ce7705397b2745aff9e5f15739173
+      internalID: -37595797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_11
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b457f5693e6c4141a70315654dd68eb
+      internalID: 1807337277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_12
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64b18a37508a24dbc6c6f95f0eeff1
+      internalID: 1305050792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_13
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 905
+        width: 164
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45090c6e9a7dab44a8a273ff50d14793
+      internalID: -1693103198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 738
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811196a3999f144394f954f2c86d158
+      internalID: -1900690178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 737
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb90ddd3ae4a74cbffe7d693a9aebf
+      internalID: -1200620040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 738
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b9a1f0e1450e345beae59be697d558
+      internalID: 320028734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 738
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4898cd4aed00e4b8edc0d2336a3a28
+      internalID: -305368584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 738
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49228d6a02959d24ea143f9796e6e4ed
+      internalID: 254378715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 737
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d754cd511f13794b99dc632e876010b
+      internalID: 1128895643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_20
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 738
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc16f419d1c574d8f6f6a5df2cfa47
+      internalID: 1113868134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_21
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 738
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369656e4aca90f4b9d2e37cb594e00b
+      internalID: 366203525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_22
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 736
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01777940bb77942a981eca3069ced7
+      internalID: 368085654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_23
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 737
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f96f435a3bc3743808ddff718efe7d
+      internalID: 1305911564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_24
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 738
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160ac21922b30e742b35bc68a4f7a65f
+      internalID: 194741431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_25
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 738
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf9403491ad57f4ab0ce94e37ba1b6c
+      internalID: 9040487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_26
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 737
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b786f564cff5614b903d2eab4771d99
+      internalID: 1696816756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_27
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 738
+        width: 254
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298226be5b912c41b700984a619930f
+      internalID: -53661768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 569
+        width: 254
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62588b8b9315a1b44a1557ce29a9e6ce
+      internalID: 1099890065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e7b2b16f17f80479b7f47dfe195075
+      internalID: 1308399264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_30
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 569
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76616559b2baf0c4891935b5167c9982
+      internalID: 377451849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9dfebf181ec947a7ad572ff894b68
+      internalID: -1300709482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_32
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5554ddbc82b7a14429cf2b532d10e135
+      internalID: -988737255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_33
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6013535647d74ead76c9a74959bd8
+      internalID: 659036542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_34
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3566135e9d421c4498373860621b6a9b
+      internalID: 1366274613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_35
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f6eeadf6b785a4bbbc99070ad1bb42
+      internalID: -461225407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_36
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bd6ef07b103df4a8675f081d9628ba
+      internalID: -1109872164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_37
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 569
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16226c6523022a14699cb1b0d5882f08
+      internalID: -173687844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_38
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19941a0d3b0934e830e032710f5d03
+      internalID: -178579191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_39
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bf83c85854d5428c16030a9d978ad
+      internalID: 1033277056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_40
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dbc54246c1e1840b57fa453883ec14
+      internalID: -1992447344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_41
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 569
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501f867f42181e4d86a646b4c76c5c9
+      internalID: -595435193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 449
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652429fc3bdcda47bda363660a3e5e4
+      internalID: 475070290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 400
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2b8b98674627c4aa279099ccf1185d
+      internalID: 1833165510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_44
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 400
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eca7f3d72360b43a9c5a58b76300fd
+      internalID: 1237336784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_45
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 400
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9ea536d2e67a4c862174559983ee8
+      internalID: -184154682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_46
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 400
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bffed4a0c8bfe1459972b97e0516ca7
+      internalID: -1557710372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_47
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 400
+        width: 166
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77959a5a8fbc7c44390e40af76ce7268
+      internalID: 1661719443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_48
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 400
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfcd5b6fd454d94f9a23ddf8c048baf
+      internalID: -229408196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_49
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 400
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779fc444c974b8a4ebf8663dc25fd2ff
+      internalID: -957372483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_50
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 400
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7582876a76324db0ee9acebd3a152
+      internalID: -518475325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_51
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 400
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de05cea91ee1e46b2556e863c8a601
+      internalID: 1936647588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_52
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 400
+        width: 465
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba697b4ddbd26c4cacd4ee70d4ef4c6
+      internalID: 1191980084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 351
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181c78ab26718e429af4fd6ff32156f
+      internalID: -1546947453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_54
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 231
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebeab69093020244843208f3053f6bb
+      internalID: -154423614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_55
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 231
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b7f9220f6b754581648d36d50ffa3
+      internalID: 612800336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_56
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 231
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3807057afdcd054cb1cc13398b9ee0b
+      internalID: -1968657418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_57
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 231
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec89ee82fbb8f24b8df2553268eccff
+      internalID: -1080289582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_58
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 231
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4925f242ed415fa43bab3f8c4d5b4e1d
+      internalID: -366643463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_59
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 231
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a431104028ab7459e6ae58e20a04fb
+      internalID: 1961948083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_60
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 231
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac23ac65fe11d8943800d85d8b5bba0d
+      internalID: 311345914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_61
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 231
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff4318ae6758a045849d2bbe6a23d54
+      internalID: 714832977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_62
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 231
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167be6969d1da8d4b9f5216ea3d85070
+      internalID: -400282359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_63
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 231
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9942cb2019d924fbcb532dbf60ac0d
+      internalID: 1098376506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_64
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 233
+        width: 396
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23637eb4538698742852b9abc661b182
+      internalID: 540344849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 157
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6695363b5eb4d49993d1a2d262badc
+      internalID: 153824943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 62
+        width: 158
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d0bbe14bbe1649ba01bd9e57db7a0
+      internalID: 283776402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_67
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 61
+        width: 157
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a550e55fb2024c88b359b9b48f210
+      internalID: 165203533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_68
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 62
+        width: 199
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33c81c02b5ca8408bcb2cfa9574a2a
+      internalID: 695666901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_69
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 62
+        width: 807
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad077e1a89a814c9a79a66050771d5
+      internalID: 2003242571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_70
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 62
+        width: 200
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8760680577564797dda2a8563a4a6
+      internalID: 950927031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_71
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 62
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987f4fa10943dc459d34eaffa1a1fd5
+      internalID: 813614879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_72
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 52
+        width: 162
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6123589cf3270004794de1e5162cf069
+      internalID: -1538086125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_73
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 142
+        width: 162
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8254bb6901274374184a07e8fcd2afe7
+      internalID: -2142147286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_74
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 51
+        width: 162
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f3483e8f45daa4ebb680ee1ec974ba
+      internalID: -1599750735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSD_KeyboardIcon_75
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 52
+        width: 161
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2960d043111ce419bf610783f8d4a6
+      internalID: 272969515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PSD_KeyboardIcon_0: 1950183740
+      PSD_KeyboardIcon_1: 1310336723
+      PSD_KeyboardIcon_10: -37595797
+      PSD_KeyboardIcon_11: 1807337277
+      PSD_KeyboardIcon_12: 1305050792
+      PSD_KeyboardIcon_13: -1693103198
+      PSD_KeyboardIcon_14: -1900690178
+      PSD_KeyboardIcon_15: -1200620040
+      PSD_KeyboardIcon_16: 320028734
+      PSD_KeyboardIcon_17: -305368584
+      PSD_KeyboardIcon_18: 254378715
+      PSD_KeyboardIcon_19: 1128895643
+      PSD_KeyboardIcon_2: 1474790595
+      PSD_KeyboardIcon_20: 1113868134
+      PSD_KeyboardIcon_21: 366203525
+      PSD_KeyboardIcon_22: 368085654
+      PSD_KeyboardIcon_23: 1305911564
+      PSD_KeyboardIcon_24: 194741431
+      PSD_KeyboardIcon_25: 9040487
+      PSD_KeyboardIcon_26: 1696816756
+      PSD_KeyboardIcon_27: -53661768
+      PSD_KeyboardIcon_28: 1099890065
+      PSD_KeyboardIcon_29: 1308399264
+      PSD_KeyboardIcon_3: -851017698
+      PSD_KeyboardIcon_30: 377451849
+      PSD_KeyboardIcon_31: -1300709482
+      PSD_KeyboardIcon_32: -988737255
+      PSD_KeyboardIcon_33: 659036542
+      PSD_KeyboardIcon_34: 1366274613
+      PSD_KeyboardIcon_35: -461225407
+      PSD_KeyboardIcon_36: -1109872164
+      PSD_KeyboardIcon_37: -173687844
+      PSD_KeyboardIcon_38: -178579191
+      PSD_KeyboardIcon_39: 1033277056
+      PSD_KeyboardIcon_4: 990767546
+      PSD_KeyboardIcon_40: -1992447344
+      PSD_KeyboardIcon_41: -595435193
+      PSD_KeyboardIcon_42: 475070290
+      PSD_KeyboardIcon_43: 1833165510
+      PSD_KeyboardIcon_44: 1237336784
+      PSD_KeyboardIcon_45: -184154682
+      PSD_KeyboardIcon_46: -1557710372
+      PSD_KeyboardIcon_47: 1661719443
+      PSD_KeyboardIcon_48: -229408196
+      PSD_KeyboardIcon_49: -957372483
+      PSD_KeyboardIcon_5: -22063854
+      PSD_KeyboardIcon_50: -518475325
+      PSD_KeyboardIcon_51: 1936647588
+      PSD_KeyboardIcon_52: 1191980084
+      PSD_KeyboardIcon_53: -1546947453
+      PSD_KeyboardIcon_54: -154423614
+      PSD_KeyboardIcon_55: 612800336
+      PSD_KeyboardIcon_56: -1968657418
+      PSD_KeyboardIcon_57: -1080289582
+      PSD_KeyboardIcon_58: -366643463
+      PSD_KeyboardIcon_59: 1961948083
+      PSD_KeyboardIcon_6: -344363451
+      PSD_KeyboardIcon_60: 311345914
+      PSD_KeyboardIcon_61: 714832977
+      PSD_KeyboardIcon_62: -400282359
+      PSD_KeyboardIcon_63: 1098376506
+      PSD_KeyboardIcon_64: 540344849
+      PSD_KeyboardIcon_65: 153824943
+      PSD_KeyboardIcon_66: 283776402
+      PSD_KeyboardIcon_67: 165203533
+      PSD_KeyboardIcon_68: 695666901
+      PSD_KeyboardIcon_69: 2003242571
+      PSD_KeyboardIcon_7: 492121114
+      PSD_KeyboardIcon_70: 950927031
+      PSD_KeyboardIcon_71: 813614879
+      PSD_KeyboardIcon_72: -1538086125
+      PSD_KeyboardIcon_73: -2142147286
+      PSD_KeyboardIcon_74: -1599750735
+      PSD_KeyboardIcon_75: 272969515
+      PSD_KeyboardIcon_8: -232463992
+      PSD_KeyboardIcon_9: -650703728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10764811de3c1564e98615896fe3bfb5, type: 3}
+  m_Name: DefaultCharacter
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  characterName: "\u9ED8\u8BA4\u89D2\u8272"
+  characterDescription: "\u8FD9\u662F\u4E00\u4E2A\u9ED8\u8BA4\u89D2\u8272"
+  characterTypeId: Default
+  initialEquipments:
+  - IronSword
+  - IronSword
+  - LightArmor
+  - LightArmor
+  - LightArmor
+  - BoxingGloves
+  - BoxingGloves
+  - BoxingGloves
+  initialCards:
+  - DirectionChanger
+  - DirectionChanger
+  - DirectionChanger
+  - DirectionChanger
+  - DirectionChanger
+  - DirectionChanger
+  - DirectionChanger
+  - Stopper
+  initialMoney: 0
+  initialAgilityMax: 0
+  characterIcon: {fileID: 0}

@@ -1,0 +1,10 @@
+namespace HappyHotel.Core.ValueProcessing.Processors
+{
+	// 可选：让处理器感知其所属的管理器，便于在内部事件中反向操作管理器
+	public interface IProcessorManagerAware
+	{
+		void BindManager(ValueProcessorManager manager);
+		void UnbindManager(ValueProcessorManager manager);
+	}
+}
+

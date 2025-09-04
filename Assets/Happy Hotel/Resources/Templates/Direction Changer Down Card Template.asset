@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c46976e0c83d1c41833e9189d0416f7, type: 3}
+  m_Name: Direction Changer Down Card Template
+  m_EditorClassIdentifier: 
+  itemName: "\u4E0B"
+  icon: {fileID: -884106701, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  isPurchasable: 0
+  description: "\u653E\u7F6E\u4E00\u4E2A\u5411\u4E0B\u7684\u7BAD\u5934\u3002"
+  rarity: 0
+  isUnique: 0
+  allowedCharacterTypeId: Public
+  isConsumable: 0
+  cardCost: 0
+  cardImage: {fileID: -884106701, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  autoDestroyOnTrigger: 1
+  propDescription: "\u5411 {direction} \u8F6C\u5411\u3002"

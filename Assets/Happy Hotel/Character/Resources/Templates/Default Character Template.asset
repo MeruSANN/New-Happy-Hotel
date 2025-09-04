@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3105e1941a1b0364780fa484f22f7d2b, type: 3}
+  m_Name: Default Character Template
+  m_EditorClassIdentifier: HappyHotel:HappyHotel.Character.Templates:CharacterTemplate
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  characterSprite: {fileID: -1629886266, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
+  baseHealth: 60
+  baseAttackPower: 2

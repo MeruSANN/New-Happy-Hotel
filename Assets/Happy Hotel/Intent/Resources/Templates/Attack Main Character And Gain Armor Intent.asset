@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c396d92d8f002c449d4011b6b5a8e09, type: 3}
+  m_Name: Attack Main Character And Gain Armor Intent
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2089315893, guid: 6f855985a4baed74ab4c3793caecb278, type: 3}
+  description: 
+  projectileSprite: {fileID: 96417879, guid: fceb92b2b1f2fd242ba10dbe819132c1, type: 3}
+  animationDuration: 1
+  projectileSpeed: 5

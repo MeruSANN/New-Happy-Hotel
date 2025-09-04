@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c10cb9d43a17408951df904ef1c10, type: 3}
+  m_Name: OptionFuctionListSo
+  m_EditorClassIdentifier: 
+  OptionFuctionList:
+  - rid: 6846851845420482562
+  - rid: 7161893947302739971
+  - rid: 7161893929987866702
+  - rid: 1144906142485839959
+  - rid: 6846851845420482632
+  - rid: 7161893929987866697
+  - rid: 7161893929987866701
+  - rid: 7161893929987866699
+  - rid: 7161893947302739995
+  - rid: 7161893929987866704
+  - rid: 7161893929987866700
+  - rid: 7161893929987866696
+  - rid: 6846851845420482634
+  - rid: 1144906142485839958
+  - rid: 7161893929987866693
+  - rid: 7161893947302739997
+  - rid: 7161893947302739998
+  - rid: 6846851845420482636
+  - rid: 7161893929987866694
+  - rid: 7161893929987866695
+  - rid: 7161893929987866703
+  - rid: 6846851845420482638
+  - rid: 7161893929987866691
+  references:
+    version: 2
+    RefIds:
+    - rid: 1144906142485839958
+      type: {class: SO_SwitchOutMute, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: SwitchOutMute
+        fuctionNotion: Notion_SwitchOutMute
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760210
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 1144906142485839959
+      type: {class: SO_AllowedDataUpdate, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: AllowedDataUpdate
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760200
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 6846851845420482562
+      type: {class: SO_Subheading, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: "\u8BBE\u7F6E_\u901A\u7528"
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760197
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 6846851845420482632
+      type: {class: SO_Subheading, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: "\u8BBE\u7F6E_\u56FE\u5F62"
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760201
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 6846851845420482634
+      type: {class: SO_Subheading, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: "\u8BBE\u7F6E_\u97F3\u9891"
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760209
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 6846851845420482636
+      type: {class: SO_Subheading, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: PostProcessing
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760214
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 6846851845420482638
+      type: {class: SO_Subheading, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: "\u8BBE\u7F6E_\u6E38\u620F\u73A9\u6CD5"
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760218
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866691
+      type: {class: SO_AllowedGF, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: AllowedGF
+        fuctionNotion: Notion_AllowedGF
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760219
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866693
+      type: {class: SO_AudioVol, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: MasterVol
+        fuctionNotion: 
+        defaultValue: 8
+        optionState:
+          rid: 8227291997827760211
+        NotInitApply: 0
+        optionIcon: {fileID: -1671392210, guid: 46b2460062a5dbb41a000bf94a3596c3, type: 3}
+        DD: {fileID: 0}
+        audioKey: MasterVol
+    - rid: 7161893929987866694
+      type: {class: SO_ChromaticAberration, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: ChromaticAberration
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760215
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866695
+      type: {class: SO_FlimGrain, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: FlimGrain
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760216
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866696
+      type: {class: SO_FrameRate, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: FrameRate
+        fuctionNotion: 
+        defaultValue: 2
+        optionState:
+          rid: 8227291997827760208
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        frameRateList: 1e0000003c0000005a00000078000000
+    - rid: 7161893929987866697
+      type: {class: SO_FullScreen, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: FullScreen
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760202
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866699
+      type: {class: SO_Quality, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: Quality
+        fuctionNotion: 
+        defaultValue: 2
+        optionState:
+          rid: 8227291997827760204
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866700
+      type: {class: SO_RefreshRate, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: RefreshRate
+        fuctionNotion: 
+        defaultValue: 3
+        optionState:
+          rid: 8227291997827760207
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        refreshRateList: 3c0000004b0000007800000090000000
+    - rid: 7161893929987866701
+      type: {class: SO_Resolution, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: Resolution
+        fuctionNotion: Notion_Resolution
+        defaultValue: 8
+        optionState:
+          rid: 8227291997827760203
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        resolutionList:
+        - {x: 800, y: 600}
+        - {x: 1024, y: 768}
+        - {x: 1280, y: 720}
+        - {x: 1440, y: 900}
+        - {x: 1600, y: 1200}
+        - {x: 1680, y: 1050}
+        - {x: 1920, y: 1080}
+        - {x: 1920, y: 1200}
+        - {x: 2560, y: 1440}
+        - {x: 3440, y: 1440}
+        - {x: 3840, y: 2160}
+    - rid: 7161893929987866702
+      type: {class: SO_Theme, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: Theme
+        fuctionNotion: Notion_Theme
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760199
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        paletteList:
+        - {fileID: 11400000, guid: fa90a22c687badf4a9578bfc56845a53, type: 2}
+        - {fileID: 11400000, guid: 7e6fd8408b5e0864f89dc3b20a9225df, type: 2}
+        - {fileID: 11400000, guid: a61c16b7864151045bb1a88f8b1ffcc8, type: 2}
+        - {fileID: 11400000, guid: 98a40d8bacfac324e9f6b3b415804faa, type: 2}
+        - {fileID: 11400000, guid: 540bb33e42d39694f99b1b292ade5eb2, type: 2}
+        - {fileID: 11400000, guid: bb2310ac8fb25cd4f950ab7f8c437474, type: 2}
+        - {fileID: 11400000, guid: 76d4d4cd0bde9be409111cdf426d2b00, type: 2}
+        - {fileID: 11400000, guid: 0034225f4b393304b896d7b3e846784e, type: 2}
+        - {fileID: 11400000, guid: bd33b2b2701a99d4e9398fa56e07c9a2, type: 2}
+        - {fileID: 11400000, guid: 3f15ebe3dd320aa42b041ea501cd760b, type: 2}
+        - {fileID: 11400000, guid: f8450c81b8818ba4ca9e459e6630f747, type: 2}
+        - {fileID: 11400000, guid: 34c9a3a3231da904e96c2e0b00d9fdb0, type: 2}
+        - {fileID: 11400000, guid: 53cb0e5a811bcae4bbafdcaf30176d70, type: 2}
+        - {fileID: 11400000, guid: 16bfddaa6842f37478f552595e8a907b, type: 2}
+        - {fileID: 11400000, guid: fcbe9822d42129c48b275c8d16d3dc49, type: 2}
+    - rid: 7161893929987866703
+      type: {class: SO_Vignette, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: Vignette
+        fuctionNotion: 
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760217
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893929987866704
+      type: {class: SO_vSync, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: vSync
+        fuctionNotion: Notion_vSync
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760206
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+    - rid: 7161893947302739971
+      type: {class: SO_Language, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: Language
+        fuctionNotion: Notion_Language
+        defaultValue: 0
+        optionState:
+          rid: 8227291997827760198
+        NotInitApply: 0
+        optionIcon: {fileID: -1766671883, guid: 46b2460062a5dbb41a000bf94a3596c3, type: 3}
+        DD: {fileID: 0}
+        languagesCodes:
+        - en
+        - zh-CN
+        - zh-TW
+        - ja
+        - fr
+    - rid: 7161893947302739995
+      type: {class: SO_AntiAliasing, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: AntiAliasing
+        fuctionNotion: 
+        defaultValue: 2
+        optionState:
+          rid: 8227291997827760205
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        antiAliasingList: 02000000040000000800000010000000
+    - rid: 7161893947302739997
+      type: {class: SO_AudioVol, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: BGMVol
+        fuctionNotion: 
+        defaultValue: 8
+        optionState:
+          rid: 8227291997827760212
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        audioKey: BGMVol
+    - rid: 7161893947302739998
+      type: {class: SO_AudioVol, ns: , asm: Assembly-CSharp}
+      data:
+        isShow: 1
+        fuctionName: SFVol
+        fuctionNotion: 
+        defaultValue: 8
+        optionState:
+          rid: 8227291997827760213
+        NotInitApply: 0
+        optionIcon: {fileID: 0}
+        DD: {fileID: 0}
+        audioKey: SFVol
+    - rid: 8227291997827760197
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: "\u8BBE\u7F6E_\u901A\u7528"
+        value: 0
+    - rid: 8227291997827760198
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: Language
+        value: 0
+    - rid: 8227291997827760199
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: Theme
+        value: 1
+    - rid: 8227291997827760200
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: AllowedDataUpdate
+        value: 0
+    - rid: 8227291997827760201
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: "\u8BBE\u7F6E_\u56FE\u5F62"
+        value: 0
+    - rid: 8227291997827760202
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: FullScreen
+        value: 0
+    - rid: 8227291997827760203
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: Resolution
+        value: 8
+    - rid: 8227291997827760204
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: Quality
+        value: 2
+    - rid: 8227291997827760205
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: AntiAliasing
+        value: 2
+    - rid: 8227291997827760206
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: vSync
+        value: 0
+    - rid: 8227291997827760207
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: RefreshRate
+        value: 3
+    - rid: 8227291997827760208
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: FrameRate
+        value: 2
+    - rid: 8227291997827760209
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: "\u8BBE\u7F6E_\u97F3\u9891"
+        value: 0
+    - rid: 8227291997827760210
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: SwitchOutMute
+        value: 0
+    - rid: 8227291997827760211
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: MasterVol
+        value: 8
+    - rid: 8227291997827760212
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: BGMVol
+        value: 8
+    - rid: 8227291997827760213
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: SFVol
+        value: 8
+    - rid: 8227291997827760214
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: PostProcessing
+        value: 0
+    - rid: 8227291997827760215
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: ChromaticAberration
+        value: 0
+    - rid: 8227291997827760216
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: FlimGrain
+        value: 0
+    - rid: 8227291997827760217
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: Vignette
+        value: 0
+    - rid: 8227291997827760218
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: "\u8BBE\u7F6E_\u6E38\u620F\u73A9\u6CD5"
+        value: 0
+    - rid: 8227291997827760219
+      type: {class: OptionState, ns: , asm: Assembly-CSharp}
+      data:
+        key: AllowedGF
+        value: 0

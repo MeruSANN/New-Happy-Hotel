@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c13aeebcc48ee243bec789d5959fbdc, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: rarityPriceDict
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[HappyHotel.Core.Rarity.Rarity,
+        HappyHotel],[System.Int32, mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[HappyHotel.Core.Rarity.Rarity,
+        HappyHotel]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 3
+      Data: 50
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 3
+      Data: 80
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 3
+      Data: 120
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 3
+      Data: 120
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  maxPropSpawnCount: 4
+  cardsToDrawPerTurn: 5
+  initialMaxCost: 3
+  firstTurnCoinMultiplier: 1.5
+  curveDecayRate: 0.1
+  targetTurnForBaseReward: 20
+  finalRewardRandomMin: 0.9
+  finalRewardRandomMax: 1.1
+  showRewardPanelAfterCompletion: 1
+  levelRewardConfigs:
+  - levelType: Normal
+    rewardItemTypeIds:
+    - MixedRaritySelectionBox
+    - CardMixedRaritySelectionBox
+  - levelType: Elite
+    rewardItemTypeIds:
+    - CoinReward
+    - CardMixedRaritySelectionBox
+  - levelType: Tutorial
+    rewardItemTypeIds: []
+  levelCoinRewardTable:
+  - normal: 30
+    boss: 100
+    elite: 30
+    tutorial: 0
+  - normal: 40
+    boss: 0
+    elite: 40
+    tutorial: 0
+  - normal: 50
+    boss: 0
+    elite: 50
+    tutorial: 0
+  - normal: 60
+    boss: 0
+    elite: 60
+    tutorial: 0
+  - normal: 70
+    boss: 0
+    elite: 70
+    tutorial: 0
+  priceRandomRangePercent: 0.1

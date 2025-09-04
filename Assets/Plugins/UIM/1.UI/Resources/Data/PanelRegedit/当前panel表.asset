@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2923e87eb7fb24abbefcdda94ae135, type: 3}
+  m_Name: "\u5F53\u524Dpanel\u8868"
+  m_EditorClassIdentifier: 
+  PanelItemList:
+  - key: MainMenu
+    obj: {fileID: 4158879324130514922, guid: 6556935da0f4fd84eafa5f2eed8c820d, type: 3}
+    currentObj: {fileID: 0}
+  - key: SaveFile
+    obj: {fileID: 5837047004191223233, guid: 1d8bcabee49cbf643bd457702a28e22c, type: 3}
+    currentObj: {fileID: 0}
+  - key: SettingPanel
+    obj: {fileID: 2988021626182375887, guid: 4c796fa76f6871d40a9cf950c326b886, type: 3}
+    currentObj: {fileID: 0}
+  - key: RankingList
+    obj: {fileID: 8098704085430276663, guid: bd0c55fd72ec88040b69bc5a499266ca, type: 3}
+    currentObj: {fileID: 0}
+  - key: UpdateLogs
+    obj: {fileID: 1293214041955270660, guid: 29ba22aa5185b4545bf5634b39d7408d, type: 3}
+    currentObj: {fileID: 0}
+  - key: AchievePanel
+    obj: {fileID: 6843743208870160802, guid: 6243ab014206a6145ab67f48fdce04e2, type: 3}
+    currentObj: {fileID: 0}
+  - key: IllustratedPanel
+    obj: {fileID: 1948624880613298893, guid: 17780a1906681f140ad184e99b1aea88, type: 3}
+    currentObj: {fileID: 0}
+  - key: CreditsPanel
+    obj: {fileID: 976695139324086875, guid: 4d962bedb7f7a2a4fa90d1505bb7c09d, type: 3}
+    currentObj: {fileID: 0}
+  - key: InitLanguage
+    obj: {fileID: 6843743208870160802, guid: ed039c5bddaf46c4eaad3cf17fbbb201, type: 3}
+    currentObj: {fileID: 0}
