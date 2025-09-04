@@ -10,20 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8d51f4d853ef21a40bff38b2c4e5f248, type: 3}
-  m_Name: Prop Boost Charm Template
+  m_Name: Prop Boost Charm Plus Template
   m_EditorClassIdentifier: 
-  itemName: "\u78E8\u5200\u77F3"
+  itemName: "\u78E8\u5200\u77F3+"
   icon: {fileID: 1614648407, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
   isPurchasable: 1
   description: "\u4E0B\u4E00\u6B21\u89E6\u53D1\u7684\u9053\u5177\u7ED9\u4E88\u7684\u653B\u51FB\u529B+{bonus}\u3002"
-  rarity: 1
+  rarity: 2
   isUnique: 0
   allowedCharacterTypeId: Public
   isConsumable: 0
   isSingleUse: 1
-  isUpgradeable: 1
-  upgradedEquipmentTypeId: PropBoostCharmPlus
-  isUpgradedEquipment: 0
-  baseEquipmentTypeId: 
+  isUpgradeable: 0
+  upgradedEquipmentTypeId: 
+  isUpgradedEquipment: 1
+  baseEquipmentTypeId: PropBoostCharm
   tags: []
-  buffBonus: 2
+  buffBonus: 3
+

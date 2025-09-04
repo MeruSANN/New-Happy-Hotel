@@ -10,22 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6f6ffc1fd5786dd4684a84e195ba5098, type: 3}
-  m_Name: War Charm Template
+  m_Name: War Charm Plus Template
   m_EditorClassIdentifier: 
-  itemName: "\u5E26\u523A\u81C2\u7532"
+  itemName: "\u5E26\u523A\u81C2\u7532+"
   icon: {fileID: 1045800026, guid: 19bc1e029e618bc4b9ea7d0e55e34fee, type: 3}
   isPurchasable: 1
-  description: "\u6D88\u8017\uFF0C\u83B7\u5F97 {damage} \u653B\u51FB\u529B\u548C
-    {armor} \u62A4\u7532\u3002"
-  rarity: 0
+  description: "\u6D88\u8017\uFF0C\u83B7\u5F97 {damage} \u653B\u51FB\u529B\u548C {armor} \u62A4\u7532\u3002"
+  rarity: 1
   isUnique: 0
   allowedCharacterTypeId: Public
   isConsumable: 1
   isSingleUse: 0
-  isUpgradeable: 1
-  upgradedEquipmentTypeId: WarCharmPlus
-  isUpgradedEquipment: 0
-  baseEquipmentTypeId: 
+  isUpgradeable: 0
+  upgradedEquipmentTypeId: 
+  isUpgradedEquipment: 1
+  baseEquipmentTypeId: WarCharm
   tags: []
-  weaponDamage: 2
-  armorAmount: 6
+  weaponDamage: 3
+  armorAmount: 8
+
